@@ -9,7 +9,7 @@
   "author": "Aðalsteinn Rúnarsson",
   "license": "MIT",
   "dependencies": {
-    "jsonwebtoken": "^9.0.2",
+    "jsonwebtoken": "^9.0.3",
     "jwks-rsa": "^3.1.0"
   }
 }
